@@ -69,21 +69,7 @@ These interactive elements allow users to dynamically explore sales performance 
 ---
 
 ## 📸 Dashboard Preview
-![Sales Analysis Dashboard](images/dashboard.png)
-
----
-
-## 📁 Project Structure
-Sales-Analysis-For-Retail-Chain/
-│
-├── Dataset/
-│ └── Retail_Sales_Data.xlsx
-│
-├── images/
-│ └── dashboard.png
-│
-└── README.md
-
+![Sales Analysis Dashboard](Images/Dashboard_Img.jpg)
 
 ---
 
